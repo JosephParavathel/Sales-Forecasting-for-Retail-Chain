@@ -33,3 +33,7 @@ This project aims to develop a machine learning model to predict the sales of pr
 - Understand the practical implementation of forecasting models in real-world scenarios, particularly in the retail industry.
 
 Through this project, I enhanced my skills in data analysis, forecasting, and machine learning while contributing to the optimization efforts of the retail industry.
+
+
+### Project Report :
+- [here](https://drive.google.com/file/d/1K5TZ7htsovDPbeDLd9ta_kM1qrstfbgX/view?usp=sharing)
