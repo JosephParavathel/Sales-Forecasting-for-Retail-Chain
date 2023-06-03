@@ -37,3 +37,6 @@ Through this project, I enhanced my skills in data analysis, forecasting, and ma
 
 ### Project Report :
 - [here](https://drive.google.com/file/d/1K5TZ7htsovDPbeDLd9ta_kM1qrstfbgX/view?usp=sharing)
+
+### Dataset :
+- [here](https://www.kaggle.com/datasets/mragpavank/predicting-the-sales-of-products-of-a-retail-chain)
