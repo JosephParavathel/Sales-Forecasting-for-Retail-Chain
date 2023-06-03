@@ -40,3 +40,6 @@ Through this project, I enhanced my skills in data analysis, forecasting, and ma
 
 ### Dataset :
 - [here](https://www.kaggle.com/datasets/mragpavank/predicting-the-sales-of-products-of-a-retail-chain)
+
+### Google Colab:
+- [here](https://colab.research.google.com/drive/1JE-Wks1_5EgAq5hsjpgcGU4xX9UHVk31?usp=sharing)
